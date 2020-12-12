@@ -9,4 +9,5 @@ I'm Software Engineer 👨🏻‍💻 for 10 years now with a wide range experie
 - 📚 I do like books, but I don't like programming books. I think after many years in college and post graduation course reading a lot of technincal books and scientific articles, I think my brain just likes any book, except from my area 🤷🏻‍♂️. Right now, I'm reading Yuval Harari, Sapiens. 
 - ⏱ Unfortunately I still can't manage my time to do much after work, but if you are a beginner and want some help of mine, I'm fully available to guide or annswer any doubt in my reach. 
 - 🎓 I'm MSc in Computer Science and I'm very proud of my Computation Engineering gradution, they both made half of the professional that I am. I like to be a Software Engineer, but I miss the old days of scientific research.
-- 🍻 I do like a good beer with friends or a coffee mug with good company. I'm writing this in the end of 2020, the pandemic year, adn I'm looking forward to be able to do those things again. 
+- 🍻 I do like a good beer with friends or a coffee mug with good company. I'm writing this in the end of 2020, the pandemic year, and I'm looking forward to be able to do those things again. 
+- 📜 Oh, if you want/need to know more about me, reach me out. Or take a look at my "[resume](https://www.linkedin.com/in/matheuscardoso/)" to get to know more about my professional side. 
